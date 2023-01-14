@@ -65,3 +65,4 @@ http://localhost:3000/fizzbuzz/5
 http://localhost:3000/fizzbuzz/15
 http://localhost:3000/fizzbuzz/200
 ```
+[Blog de referencia](https://ualmtorres.github.io/SeminarioTesting/)
