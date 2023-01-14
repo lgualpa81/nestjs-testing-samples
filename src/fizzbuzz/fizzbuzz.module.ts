@@ -4,6 +4,6 @@ import { FizzbuzzController } from './fizzbuzz.controller';
 
 @Module({
   providers: [FizzbuzzService],
-  controllers: [FizzbuzzController]
+  controllers: [FizzbuzzController],
 })
 export class FizzbuzzModule {}
